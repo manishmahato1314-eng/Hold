@@ -200,7 +200,7 @@
 
     <script>
         // Set target date: June 18, 2026 at midnight
-        const targetDate = new Date("June 18, 2026 00:00:00").getTime();
+        const targetDate = new Date("June 13, 2026 00:00:00").getTime();
 
         // Update the countdown every single second
         const countdownInterval = setInterval(function() {
